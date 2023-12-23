@@ -14,9 +14,11 @@
 body {
     font-family: 'Barlow Semi Condensed', sans-serif;
     background-color: var(--light-grayish-blue)!important;
-    /* display: flex;
+    display: flex;
     justify-content: center;
-    align-items: center; */
+    align-items: center; 
+    height: 120vh;
+
 }
 
 .testimo {
